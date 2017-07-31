@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.servicecomb:handler-bizkeeper:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/servicecomb/handler-bizkeeper/unknown/handler-bizkeeper-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/servicecomb/handler-bizkeeper/unknown/handler-bizkeeper-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/servicecomb/handler-bizkeeper/unknown/handler-bizkeeper-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
